@@ -117,6 +117,7 @@ Olá sou Gustavo Henrique Mendonça, formado em bacharelado em Ciências da Comp
     align="left" 
     alt="GitHub Stats" 
     height="200" 
+    weight="1000"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=GustavoHLM&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
