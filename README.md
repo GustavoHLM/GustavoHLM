@@ -1,5 +1,5 @@
 # 👨‍💻 Gustavo H. Mendonça
-
+ 
 **`Desenvolvedora FullStack`**
 
 Olá sou Gustavo Henrique Mendonça, formado em bacharelado em Ciências da Computação, sempre buscando evoluir e me atualizar. Acredito que a base sólida vem do estudo aprofundado dos fundamentos, por isso valorizo o material acadêmico, mas também sei que a tecnologia não para. Assim, me mantenho em constante aprendizado, explorando novas linguagens e frameworks diretamente em suas documentações oficiais. Para mim, uma linguagem pode se tornar obsoleta, mas um programador de verdade nunca deixa de evoluir.
